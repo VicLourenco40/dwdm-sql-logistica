@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T15:31:52.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="vsnGshCSmKA10sY3G-5e" version="24.3.1" type="google" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-08T16:31:22.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="tk016fORnAnwye_BkYkf" version="24.3.1" type="google" pages="3">
   <diagram name="Conceito" id="w_FOtQIxynuE1HzrYd4C">
     <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -896,7 +896,7 @@
             <mxRectangle width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TJUkrI_AIj82atkH7xTK-159" value="INT" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="TJUkrI_AIj82atkH7xTK-156">
+        <mxCell id="TJUkrI_AIj82atkH7xTK-159" value="DECIMAL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="TJUkrI_AIj82atkH7xTK-156">
           <mxGeometry x="140" width="100" height="30" as="geometry">
             <mxRectangle width="100" height="30" as="alternateBounds" />
           </mxGeometry>
