@@ -2,6 +2,7 @@ CREATE TABLE pedidos (
 	id_pedido INT IDENTITY(1, 1) PRIMARY KEY,
 	id_remetente INT FOREIGN KEY REFERENCES clientes(id_cliente) NOT NULL,
 	id_destinatario INT FOREIGN KEY REFERENCES clientes(id_cliente) NOT NULL,
+	descricao VARCHAR(128) NOT NULL,
 	data_envio DATE NOT NULL,
 	data_entrega DATE NOT NULL,
 	id_estado INT FOREIGN KEY REFERENCES estados(id_estado) NOT NULL,
