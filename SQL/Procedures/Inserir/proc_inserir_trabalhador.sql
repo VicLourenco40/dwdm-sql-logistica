@@ -4,7 +4,8 @@ CREATE PROC inserir_trabalhador
 	@morada VARCHAR(128),
 	@telefone INT,
 	@email VARCHAR(32),
-	@id_funcao INT
+	@id_funcao INT,
+	@id_armazem INT
 AS
 	INSERT INTO trabalhadores
-	VALUES (@nome, @idade, @morada, @telefone, @email, @id_funcao)
+	VALUES (@nome, @idade, @morada, @telefone, @email, @id_funcao, @id_armazem)

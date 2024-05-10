@@ -13,3 +13,8 @@ EXEC inserir_camiao 18.0, 18, 1
 EXEC inserir_camiao 18.0, 7, 1
 EXEC inserir_camiao 5.0, 33, 2
 EXEC inserir_camiao 5.0, 18, 2
+EXEC inserir_camiao 5.0, 33, 2
+EXEC inserir_camiao 5.0, 33, 2
+EXEC inserir_camiao 5.0, 18, 1
+EXEC inserir_camiao 18.0, 18, 1
+EXEC inserir_camiao 18.0, 7, 2
