@@ -5,5 +5,6 @@ CREATE TABLE trabalhadores (
 	morada VARCHAR(128) NOT NULL,
 	telefone INT NOT NULL,
 	email VARCHAR(32) NOT NULL,
-	id_funcao INT FOREIGN KEY REFERENCES funcoes(id_funcao) NOT NULL
+	id_funcao INT FOREIGN KEY REFERENCES funcoes(id_funcao) NOT NULL,
+	id_armazem INT FOREIGN KEY REFERENCES armazens(id_armazem) NOT NULL
 );
